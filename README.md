@@ -1,1 +1,1 @@
-# MindsNXT_LMS
+# MindsNxtLMS
